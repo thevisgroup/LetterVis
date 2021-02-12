@@ -1,0 +1,16 @@
+{
+  "python.pythonPath": "src/util/spacy/.env",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "git.ignoreLimitWarning": true,
+  "cSpell.words": [
+    "EPSRC",
+    "aeds",
+    "antiepileptic",
+    "doccurate",
+    "ehrs",
+    "healthboard",
+    "lucene",
+    "valproate"
+  ]
+}
